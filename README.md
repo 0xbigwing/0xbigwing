@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xbigwing
-- 👀 I’m interested in Web3 security
+- 👀 I’m interested in Web3 world
 - 🌱 I’m currently learning smart contract security
 - 📫 Reach me on X @0xbigwing
 
